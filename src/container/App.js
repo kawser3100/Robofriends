@@ -42,7 +42,6 @@ class App extends Component{
               <ErrorBoundry>
                 <CardList robots={filteredRobots} />
               </ErrorBoundry>
-              
             </Scroll>
               
           
